@@ -6,3 +6,5 @@ langchain_google_genai
 networkx
 pypdf
 faiss-cpu
+wikipedia
+arxiv
