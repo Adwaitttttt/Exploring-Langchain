@@ -9,3 +9,4 @@ faiss-cpu
 wikipedia
 arxiv
 duckduckgo-search
+langchain_openai
